@@ -2,5 +2,5 @@ import { LightningElement } from 'lwc';
 
 export default class MyComponent extends LightningElement {
 
-    message = 'Git Training';
+    message = 'Git Training - Feature branch';
 }
